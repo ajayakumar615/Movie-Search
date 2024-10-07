@@ -42,7 +42,7 @@ function Movie() {
     //                 dispatch({ type: 'Movies', newdata: data.Search });
     //             }
     //         } else {
-    //             dispatch({ type: 'Error' }); // ! Handle case when API response is not successful
+    //             dispatch({ type: 'Error' }); // ! Handle when API response is not successful
     //         }
     //     } catch (error) {
     //         dispatch({ type: 'Error' }); // ! Handle network errors or API issues
